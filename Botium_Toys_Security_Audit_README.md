@@ -338,9 +338,9 @@ This audit was completed using the following framework and reference documents:
 
 ---
 
-**Audit Completion Date.** [INSERT DATE]
+**Audit Completion Date.** June 26th, 2026
 
-**Auditor.** [YOUR NAME]
+**Auditor.** Carlson Akaolisa
 
 **Organization.** Botium Toys
 
